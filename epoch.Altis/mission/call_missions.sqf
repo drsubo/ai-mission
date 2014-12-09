@@ -4,7 +4,7 @@
                 //Wait between 5 and 10 minutes.
 //_sleepTime = (random (_maxTime - _minTime)) + _minTime;
 //sleep _sleepTime;
-sleep 60;
+sleep 600;
 _n1 = floor(random 9);				
 if (_n1 == 0) then
 	{
