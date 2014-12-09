@@ -57,7 +57,8 @@ _marker setMarkerType "mil_warning";
 
 sleep 1500;
 
-
+deleteVehicle unit;
+deleteVehicle unit1;
 
 deleteMarker "Marker2"; 
 
